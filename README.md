@@ -1,36 +1,21 @@
-# Minor-In-AI
 # Month-wise Assignment Tracker
 
-Welcome to my GitHub repository! This repository contains my assignments organized by month, week, and day. Below, you'll find a table tracking all the assignments with their respective links, names, and other necessary details.
+Welcome to my GitHub repository! This repository contains my assignments organized by month, week, day, and date. Below, you'll find a table tracking all the assignment links.
 
 ## Assignment Tracker
 
-| Month | Week | Day | Assignment Name | Link | Description |
-|-------|------|-----|-----------------|------|-------------|
-| August | 1    | 1   | Assignment 1    | [Link to Assignment 1](#) | Description of Assignment 1 |
-| August | 1    | 2   | Assignment 2    | [Link to Assignment 2](#) | Description of Assignment 2 |
-| August | 2    | 1   | Assignment 3    | [Link to Assignment 3](#) | Description of Assignment 3 |
-| August | 2    | 2   | Assignment 4    | [Link to Assignment 4](#) | Description of Assignment 4 |
-| September | 1 | 1 | Assignment 5    | [Link to Assignment 5](#) | Description of Assignment 5 |
-| September | 1 | 2 | Assignment 6    | [Link to Assignment 6](#) | Description of Assignment 6 |
-| ...   | ...  | ... | ...             | ...  | ...         |
-| December | 4 | 7 | Assignment N    | [Link to Assignment N](#) | Description of Assignment N |
+| Month   | Week | Day (Date)    | Links                                                                                                             |
+|---------|------|---------------|---------|
+| August  | 1    | 09-08-2024 <br>(L0 Assignment - Speaking the Coding Language)| 1. [Even sum below N](https://github.com/ashishkumarpalai/Minor-In-AI/blob/main/1.August/week1/09-08-2024/Assignment/L0%20Assignment%20-%20Speaking%20the%20Coding%20Language/Even%20sum%20below%20N.py)<br>2. [Multiplication table of N](https://github.com/ashishkumarpalai/Minor-In-AI/blob/main/1.August/week1/09-08-2024/Assignment/L0%20Assignment%20-%20Speaking%20the%20Coding%20Language/Multiplication%20table%20of%20N.py)<br>3. [Primenumbers](https://github.com/ashishkumarpalai/Minor-In-AI/blob/main/1.August/week1/09-08-2024/Assignment/L0%20Assignment%20-%20Speaking%20the%20Coding%20Language/Primenumbers.py)                     |
+|   |     | 10-08-2024 <br> (L1 Assignment - Speaking the Coding Language) | 1. [Find Median](https://github.com/ashishkumarpalai/Minor-In-AI/blob/main/1.August/week1/10-08-2024/Assignment/L1%20Assignment%20-%20Speaking%20the%20Coding%20Language/Find%20Median.py)<br>2. [Leap Year](https://github.com/ashishkumarpalai/Minor-In-AI/blob/main/1.August/week1/10-08-2024/Assignment/L1%20Assignment%20-%20Speaking%20the%20Coding%20Language/Leap%20Year.py)<br>3. [Missing Intieger IIT](https://github.com/ashishkumarpalai/Minor-In-AI/blob/main/1.August/week1/10-08-2024/Assignment/L1%20Assignment%20-%20Speaking%20the%20Coding%20Language/Missing%20Intieger%20IIT.py) <br>4. [Solve Palindrome Checker- IIT](https://github.com/ashishkumarpalai/Minor-In-AI/blob/main/1.August/week1/10-08-2024/Assignment/L1%20Assignment%20-%20Speaking%20the%20Coding%20Language/Solve%20Palindrome%20Checker-%20IIT.py)                    |
+|   |     | 10-08-2024 <br> (L2 Assignment - Speaking the Coding Language) | 1. [Magical Words](https://github.com/ashishkumarpalai/Minor-In-AI/blob/main/1.August/week1/10-08-2024/Assignment/L2%20Assignment%20-%20Speaking%20the%20Coding%20Language/Magical%20Words.py)<br>2. [The Advanced Humanica Calicacia](https://github.com/ashishkumarpalai/Minor-In-AI/blob/main/1.August/week1/10-08-2024/Assignment/L2%20Assignment%20-%20Speaking%20the%20Coding%20Language/The%20Advanced%20Humanica%20Calicacia.py)                                                     |
+|  | 2 | 16-08-2024 <br> (L0 Assignment-Building Blocks of Coding Languages) | 1. [Factorial of a number](https://github.com/ashishkumarpalai/Minor-In-AI/blob/main/1.August/week2/16-08-2024/Assignment/L0%20Assignment-Building%20Blocks%20of%20Coding%20Languages/Factorial%20od%20a%20number.py)<br>2. [Three Max, Three Min Please](https://github.com/ashishkumarpalai/Minor-In-AI/blob/main/1.August/week2/16-08-2024/Assignment/L0%20Assignment-Building%20Blocks%20of%20Coding%20Languages/Three%20Max%2C%20Three%20Min%20Please.py)                                                    |
+|  |   | 17-28-2024 <br> (L1 Assignment-Building Blocks of Coding Languages) | 1. [Find Median](https://github.com/ashishkumarpalai/Minor-In-AI/blob/main/1.August/week2/17-08-2024/Assignment/L1%20Assignment-Building%20Blocks%20of%20Coding%20Languages/Find%20Median.py)<br>2. [Find Top Student - IIT](https://github.com/ashishkumarpalai/Minor-In-AI/blob/main/1.August/week2/17-08-2024/Assignment/L1%20Assignment-Building%20Blocks%20of%20Coding%20Languages/Find%20Top%20Student%20-%20IIT.py) <br>3. [Get Most frequent Word -IIT](https://github.com/ashishkumarpalai/Minor-In-AI/blob/main/1.August/week2/17-08-2024/Assignment/L1%20Assignment-Building%20Blocks%20of%20Coding%20Languages/Get%20Most%20frequent%20Word%20-IIT.py)   <br>4. [Its Time to remember Sets -IIT](https://github.com/ashishkumarpalai/Minor-In-AI/blob/main/1.August/week2/17-08-2024/Assignment/L1%20Assignment-Building%20Blocks%20of%20Coding%20Languages/Its%20Time%20to%20remember%20Sets%20-IIT.py)                                                 |
+|  |   | 17-28-2024 <br> (L2 Assignment-Building Blocks of Coding Languages) | 1. [Decoding a Cipher Text - IIT](https://github.com/ashishkumarpalai/Minor-In-AI/blob/main/1.August/week2/17-08-2024/Assignment/L2%20Assignment-Building%20Blocks%20of%20Coding%20Languages/Decoding%20a%20Cipher%20Text%20-%20IIT.py)<br>2. [Vigenere Cipher Encryption and Decryption - IIT](https://github.com/ashishkumarpalai/Minor-In-AI/blob/main/1.August/week2/17-08-2024/Assignment/L2%20Assignment-Building%20Blocks%20of%20Coding%20Languages/Vigenere%20Cipher%20Encryption%20and%20Decryption%20-%20IIT.py)                                                    |
 
-<!-- ## How to Use -->
-<!-- 
-1. **Month**: The month when the assignment was completed.
-2. **Week**: The week within the month.
-3. **Day**: The day within the week.
-4. **Assignment Name**: The title of the assignment.
-5. **Link**: Click on the link to access the assignment.
-6. **Description**: A brief description of the assignment.
+| ...     | ...  | ...           | ...                                                                                                               |
+| December | 4  | Sunday (29-12-2024) | 1. [Link to Assignment N1](#)<br>2. [Link to Assignment N2](#)                                                    |
 
-Feel free to explore and review the assignments. If you have any questions or need further information, please reach out to me.
 
-## Contact
-
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [your-github-profile](https://github.com/your-github-profile)
 
 Happy learning!
- -->
